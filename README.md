@@ -25,9 +25,8 @@ O terceiro capítulo foca em como manipular e trabalhar com **datasets de NLP**.
 - Estratégias para melhorar a qualidade dos dados e otimizar o treinamento do modelo.
 
 ## Capítulo 4: Reconhecimento de Entidades Nomeadas (NER)
-O quarto capítulo é especialmente interessante, pois trata do **Reconhecimento de Entidades Nomeadas (NER)**, uma tarefa fundamental em NLP. Neste capítulo, construímos e treinamos um modelo para classificar tokens em três categorias principais: **ORGANIZAÇÃO (ORG)**, **PESSOA (PERSON)** e **LOCALIZAÇÃO (LOC)**. O capítulo destaca a importância de **datasets multilíngues** e o impacto do **custo computacional** no treinamento de modelos, especialmente ao utilizar apenas **CPUs** para o treinamento.
+O quarto capítulo é especialmente interessante, pois trata do **Reconhecimento de Entidades Nomeadas (NER)**, uma tarefa fundamental em NLP. Neste capítulo, construímos e treinamos um modelo para classificar tokens em três categorias principais: **ORGANIZAÇÃO (ORG)**, **PESSOA (PERSON)** e **LOCALIZAÇÃO (LOC)**. O capítulo destaca a importância de **datasets multilíngues**.
 
 ### Pontos principais:
 - Implementação de um modelo **NER** para reconhecer entidades como **ORG**, **PERSON** e **LOC**.
 - Desafios ao lidar com **dados multilíngues** e como adaptar o modelo a diferentes idiomas.
-- Reflexão sobre o **alto custo computacional** no treinamento de modelos e como o uso de **GPUs dedicadas** pode reduzir significativamente o tempo de treinamento.
